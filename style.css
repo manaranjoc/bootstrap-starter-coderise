@@ -1,0 +1,15 @@
+.margin {
+    margin: 30px 10px 10px 10px;
+    font-size: 70px;
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.center {
+    margin: 20px 10px 10px 10px;    
+
+#bajar {
+    margin-top: -100px;
+    margin-left: -250px;
+    }
